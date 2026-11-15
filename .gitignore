@@ -1,0 +1,4 @@
+/target
+bybit_btc_options_catalog/
+bybit_normalized/
+*.parquet
